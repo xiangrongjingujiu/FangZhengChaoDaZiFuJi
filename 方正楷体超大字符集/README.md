@@ -1,1 +1,1 @@
-```FZKTJW.TTF```为普通字符集，```FZKaiS-Extended-1.ttf```为扩展字符集
+```FZKTJW.TTF```为大陆简体(GB2312-80)，```FZKaiS-Extended-1.ttf```为扩展字符集，```FZKTK.TTF```为简繁扩展(GBK)
