@@ -1,0 +1,1 @@
+```FZKTJW.TTF```为普通字符集，```FZKaiS-Extended-1.ttf```为扩展字符集
