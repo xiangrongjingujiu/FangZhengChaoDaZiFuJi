@@ -1,1 +1,1 @@
-```FZKTJW.TTF```为大陆简体(GB2312-80)，```FZKaiS-Extended-1.ttf```为扩展字符集，```FZKTK.TTF```为简繁扩展(GBK)，```AR-PL-UKai-CN-Regular.ttc```为AR-PL-UKai楷体，```FandolKai-Regular.otf```为Fandol楷体
+```FZKTJW.TTF```为大陆简体(GB2312-80)，```FZKaiS-Extended-1.ttf```为扩展字符集，```FZKTK.TTF```为简繁扩展(GBK)，```AR-PL-UKai-CN-Regular.ttc```为AR-PL-UKai楷体，```FandolKai-Regular.otf```为Fandol楷体，```FZJCGFKTK.TTF```为方正教材规范楷体
